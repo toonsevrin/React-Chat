@@ -43,7 +43,7 @@ jspm_packages
 ################
 # JetBrains
 ################
-.idea
+.idea/*
 
 ## File-based project format:
 *.iws
@@ -51,7 +51,7 @@ jspm_packages
 ## Plugin-specific files:
 
 # IntelliJ
-/out/
+/out/*
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
