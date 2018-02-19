@@ -1,5 +1,11 @@
 {
+<<<<<<< HEAD
   "expo": {
     "sdkVersion": "25.0.0"
   }
 }
+=======
+  "name": "ReactChat",
+  "displayName": "ReactChat"
+}
+>>>>>>> d7e6168fa2c6d778275c3a24838b51c084e57b2b
